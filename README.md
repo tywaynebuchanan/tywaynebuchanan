@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @tywaynebuchanan
-- 👀 I’m interested in Front End Design
-- 🌱 I’m currently learning React, Node.js and Laravel
-- 💞️ I’m looking to collaborate on any projects that will strengthen my web development skills
+- 👀 Full Stack Developer
+- 🌱 MERN Stack
+- 💞️ Frontend Frameworks - React
+-  💞️ Backend Frameworks - Node Js Laravel 
 - 📫 How to reach me by emailing me at tywaynebuchanan@gmail.com
 
 <!---
